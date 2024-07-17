@@ -2,7 +2,7 @@
 name: Questing problem
 about: Create a bug report about questing system
 title: "[QB] Title here"
-labels: ''
+labels: bug, questing bug
 assignees: ''
 
 ---
